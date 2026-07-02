@@ -43,7 +43,7 @@ A Streamlit web app that uses Google's Gemini LLM to scan resumes (PDF/DOCX) for
 ## Requirements
 
 - Python 3.9+
-- A Google Gemini API key ([Google AI Studio](https://aistudio.google.com/app/apikey))
+- A Google Gemini API key ([Google AI Studio])
 
 ## Installation
 
@@ -119,5 +119,4 @@ The app will open in your browser at `http://localhost:8501`.
 - Currently only supports single-resume analysis per run (no batch mode).
 
 ## License
-
-Add your preferred license here (e.g., MIT).
+- This project is open source and available under the MIT License.
